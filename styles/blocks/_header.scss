@@ -1,0 +1,91 @@
+header{
+    background-color: #541554;
+    height: auto;
+    top: 0px;
+    
+}
+
+    nav{
+    display: flex;
+    justify-content:space-between ;
+
+
+ #imagen-slack{
+    height: 40px;
+   
+    padding: 25px;
+ }
+#menu-hamburguesa{
+    height: 35px;
+    width: 30px;
+    padding: 25px;
+}
+    }
+.h1-equipo{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 40px;
+    
+    text-align: center;
+    padding-top: 30px;
+
+}
+.parrafo1{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    text-align: center;
+    padding: 25px;
+
+}
+
+#imagen-slack{
+    display: flex;
+   margin-top: 20px;
+}
+
+
+span{
+    color: yellow;
+}
+.titulo-boton {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    margin: 10px;
+.btn1{
+   height: 57px;
+   margin-bottom: 10px;
+   color: #541554;
+   font-size: large;
+   border-radius: 6px;
+   
+
+}   .btn2 {
+    height: 57px;
+    background-color: rgb(82, 82, 208);
+    font-size: large;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border-radius: 6px;
+    border-style: none;
+    
+    .registrate{
+        margin-right: 50px;
+    }
+   
+
+    #google{
+        width: 50px;
+    }
+}   
+   
+}
+
